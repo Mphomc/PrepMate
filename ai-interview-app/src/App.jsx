@@ -6,7 +6,7 @@ function App() {
 
     return (
     <div>
-      <h1>PrepMate</h1>
+      <h1>Prep<span className="blue">Mate</span></h1>
       <label>What role are you preparing for?</label>
       <input
         type="text"
