@@ -31,10 +31,14 @@ h1 {
   margin-bottom: 5px;
 }
 
+.blue {
+   color: #3B82F6;
+}
+
 /* LABEL */
 label {
   width: 300px;
-  text-align: left; 
+  text-align: left;
 }
 
 /* INPUT */
@@ -49,3 +53,4 @@ button {
   padding: 10px;
   cursor: pointer;
 }
+
